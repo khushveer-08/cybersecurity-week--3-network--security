@@ -1,0 +1,29 @@
+<mxfile host="65bd71144e">
+    <diagram id="kv2Fe-l5MXkxoN-BP8ku" name="Page-1">
+        <mxGraphModel dx="1152" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="480" y="430.66668701171875" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="kali linux vm&amp;nbsp;&lt;div&gt;IP Add :192.168.94.133&lt;/div&gt;&lt;div&gt;sub net: 192.168.94.133/24&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="170" width="330" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="metasploitable 2&lt;div&gt;{target lab 1 }&lt;/div&gt;&lt;div&gt;IP Add : 192.168.94.134&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="440" width="150" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="ubuntu server&lt;div&gt;{target vm 2 lab}&lt;/div&gt;&lt;div&gt;IP Add : 192.168.94.135&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="430" width="180" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
